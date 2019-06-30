@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.EntityFrameworkCore;
 
-namespace SpyStore.DAL.EF
+namespace Store.DAL.EF
 {
     public class StoreContext: DbContext
     {

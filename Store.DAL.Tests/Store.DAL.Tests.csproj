@@ -6,7 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SpyStore.Models\SpyStore.Models.csproj" />
+    <ProjectReference Include="..\Store.DAL\Store.DAL.csproj" />
+    <ProjectReference Include="..\Store.Models\Store.Models.csproj" />
   </ItemGroup>
 
 </Project>
